@@ -67,11 +67,11 @@ Este repositório guarda tudo isso em um só lugar, como uma **biblioteca**: se 
 ```text
 CECC/
 ├── README.md
-├── assets/                  # banner, mascote e imagens do grupo
+├── Tema_0 - Exemplo/                  Separação de Temas por Semana
 └── semanas/
     ├── 01-git-e-github/
     │   ├── README.md        # resumo da semana + links dos cursos
-    │   └── imagens/         # artes do post da semana
+    │   └── material/         # PDF do material
     ├── 02-.../
     └── ...
 ```
