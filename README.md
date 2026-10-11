@@ -13,7 +13,7 @@
 
 ![Status](https://img.shields.io/badge/status-renascendo-6A0DAD?style=for-the-badge)
 ![Tema da semana](https://img.shields.io/badge/novo_tema-toda_semana-4B0082?style=for-the-badge)
-![Conteúdo](https://img.shields.io/badge/conte%C3%BAdo-gratuito_e_pago-9B59B6?style=for-the-badge)
+![Conteúdo](https://img.shields.io/badge/conte%C3%BAdo-cursos_e_materiais-9B59B6?style=for-the-badge)
 
 </div>
 
