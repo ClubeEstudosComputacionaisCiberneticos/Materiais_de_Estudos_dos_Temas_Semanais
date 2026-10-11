@@ -3,7 +3,7 @@
 ## 📚 Cursos e Materiais Recomendados
 
 * 🛠️ **[GitHub Skills](https://learn.github.com/skills)** — Plataforma interativa oficial para praticar comandos do GitHub.
-* 🎓 **[Git e GitHub - Básico ao Avançado](https://udemy.com)** — Curso completo e prático na Udemy.
+* 🎓 **[Git & GitHub Rápido no Essencial até Profissional]((https://www.udemy.com/course/git-github-rapido-no-essencial-ate-profissional/?couponCode=KEEPLEARNING))** — Curso completo e prático na Udemy.
 * 💻 **[Git e GitHub sem Terminal](https://sl1nk.com)** — Conteúdo focado na interface visual e uso do encurtador.dev para compartilhamento.
 
 ---
