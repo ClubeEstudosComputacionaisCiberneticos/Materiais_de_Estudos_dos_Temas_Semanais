@@ -89,7 +89,7 @@ CECC/
 
 ## 🦉 Fique por dentro
 
-- 📸 Instagram: `<@CECC>`
+- 📸 Instagram: [@CECC](https://www.instagram.com/cecc.pucpr/)
 
 <div align="center">
 
