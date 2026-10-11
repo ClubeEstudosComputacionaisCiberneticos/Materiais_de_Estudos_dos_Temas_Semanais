@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Troque pelo caminho da sua imagem: banner da coruja em fundo roxo -->
-<img src="assets/bannergit.png" alt="Rosto do mascote com assuntos do clube" width="100%">
+<img src="bannergit.png" alt="Rosto do mascote com assuntos do clube" width="100%">
 
 # 🦉 CECC
 
