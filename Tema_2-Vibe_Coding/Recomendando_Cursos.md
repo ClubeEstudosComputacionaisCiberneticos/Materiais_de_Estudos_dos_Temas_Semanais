@@ -8,7 +8,7 @@
 
 ![Semana 02](https://img.shields.io/badge/semana-02-6A0DAD?style=for-the-badge)
 ![Área](https://img.shields.io/badge/%C3%A1rea-computa%C3%A7%C3%A3o-4B0082?style=for-the-badge)
-![Idioma](https://img.shields.io/badge/idioma-ingl%C3%AAs-9B59B6?style=for-the-badge)
+![Idioma](https://img.shields.io/badge/idioma-ingl%C3%AAs_e_portugu%C3%AAs-9B59B6?style=for-the-badge)
 
 [⬅️ Voltar para a biblioteca](../../README.md)
 
