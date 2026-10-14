@@ -43,7 +43,7 @@ Este repositório guarda tudo isso em um só lugar, como uma **biblioteca**: se 
 | Semana | Tema | Área | Conteúdo |
 |:------:|------|------|----------|
 | 01 | 🐙 Git e GitHub | Computação | [Abrir pasta](./Tema_1%20-%20Git_GitHub/Recomendando_Cursos.md) |
-| 02 | 👨🏻‍💻 VibeCoding | Computação | [Abrir pasta](./Tema_2%20-%20VibeCoding/Recomendando_Cursos.md) |
+| 02 | 👨🏻‍💻 VibeCoding | Computação | [Abrir pasta](./Tema_2-Vibe_Coding/Recomendando_Cursos.md) |
 | 03 | _em breve_ | — | — |
 
 > 💡 Cada nova semana vira uma linha nesta tabela.
