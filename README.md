@@ -44,7 +44,8 @@ Este repositório guarda tudo isso em um só lugar, como uma **biblioteca**: se 
 |:------:|------|------|----------|
 | 01 | 🐙 Git e GitHub | Computação | [Abrir pasta](./Tema_1%20-%20Git_GitHub/Recomendando_Cursos.md) |
 | 02 | 👨🏻‍💻 VibeCoding | Computação | [Abrir pasta](./Tema_2-Vibe_Coding/Recomendando_Cursos.md) |
-| 03 | _em breve_ | — | — |
+| 03 | Segurança da Informação | SI/Cibersegurança | [Abrir pasta](./Tema_3-Segurança_Informacao/Recomendando_Cursos.md) |
+| 04 | Cenário de Games no Brasil | Desenvolvimento de Jogos | [Abrir pasta](./Tema_4-GameDev_no_Brasil/Recomendando_Cursos.md) |
 
 > 💡 Cada nova semana vira uma linha nesta tabela.
 
